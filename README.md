@@ -7,6 +7,7 @@ My Current Goals to understand:
     - Why the checkbox not working
     - How to bind the hooks
     - The local storage thingy that he uses
+    - **Bonus**: Find a way to publish via Github
 
 To make the app unique and mine:
 
